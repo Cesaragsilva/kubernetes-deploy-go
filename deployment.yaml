@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.dev-ops-ninja.com
+  - host: ec2-54-221-42-221.compute-1.amazonaws.com
     http:
       paths:
         - path: /
